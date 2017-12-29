@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "681195961429",
+    "firebase_url": "https://nimble-fccbd.firebaseio.com",
+    "project_id": "nimble-fccbd",
+    "storage_bucket": "nimble-fccbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681195961429:android:d1b920ea53a1b76d",
+        "android_client_info": {
+          "package_name": "com.nimble.mthiaw.nimbleloginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681195961429-mspvub6t7h0r53u4n22ce6gphovu7npe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nimble.mthiaw.nimbleloginregistration",
+            "certificate_hash": "02e6fdab567b6f77a486a0612763d6801f5ea0a6"
+          }
+        },
+        {
+          "client_id": "681195961429-41uc7j6uftn7au4ulnd70ehtffl3o38b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe8panPjYbwxCyHFMrX28GpBchHIw_iWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681195961429-41uc7j6uftn7au4ulnd70ehtffl3o38b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
